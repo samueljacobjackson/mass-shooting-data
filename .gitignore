@@ -59,3 +59,5 @@ typings/
 
 # google drive keys
 key.json
+
+deploy/

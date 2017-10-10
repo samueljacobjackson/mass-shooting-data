@@ -1,0 +1,27 @@
+{
+  "name": "mass-shooting-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.130.0",
+    "bluebird": "^3.5.1",
+    "csvjson": "^4.3.4",
+    "googleapis": "^19.0.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samueljacobjackson/mass-shooting-data.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samueljacobjackson/mass-shooting-data/issues"
+  },
+  "homepage": "https://github.com/samueljacobjackson/mass-shooting-data#readme"
+}
